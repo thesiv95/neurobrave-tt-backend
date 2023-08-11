@@ -1,0 +1,14 @@
+{
+  "name": "neurobrave-tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}
